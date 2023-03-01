@@ -53,7 +53,7 @@ int main()
             if (mechanical_button.read()) {
 
                 // read analog input
-                //ir_distance_mV = ???;
+                //ir_distance_mV = ???; /test
 
             }
 
